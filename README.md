@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWR6bG1vczA4aTExa3YwM3J6MXBtOHl2N2t5eWc4cTdsNmd0MzZ2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3og0IGbkrOEjG/giphy.gif" width="300" alt="AI analysis gif"/>
+  <img src="https://media.giphy.com/media/xUOxfjsW3jwF3E1X9a/giphy.gif" width="320" alt="AI NLP Analyzer"/>
 </p>
+
 
 <p align="center">
   🔍 LLM-powered tool for analyzing Knowledge Centered Support (KCS) articles – identify quality gaps, suggest improvements, and boost support intelligence.
