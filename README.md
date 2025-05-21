@@ -1,21 +1,19 @@
-<h1 align="center">
-  🧠 Cognitive KCS Analyzer
-</h1>
+<h1 align="center">🧠 Cognitive KCS Analyzer</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOxfjsW3jwF3E1X9a/giphy.gif" width="320" alt="AI NLP Analyzer"/>
-</p>
-
-
-<p align="center">
-  🔍 LLM-powered tool for analyzing Knowledge Centered Support (KCS) articles – identify quality gaps, suggest improvements, and boost support intelligence.
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="320" alt="AI thinking animation"/>
 </p>
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/python-3.9%2B-blue?logo=python">
-  <img alt="Streamlit" src="https://img.shields.io/badge/Built%20with-Streamlit-red?logo=streamlit">
-  <img alt="LLM" src="https://img.shields.io/badge/OpenAI-API-green?logo=openai">
-  <img alt="Status" src="https://img.shields.io/badge/status-beta-yellow">
+  🔍 LLM-powered tool for analyzing Knowledge Centered Support (KCS) articles – <br/>
+  identify quality gaps, suggest improvements, and boost support intelligence.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.9%2B-blue?logo=python"/>
+  <img src="https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit"/>
+  <img src="https://img.shields.io/badge/OpenAI-API-green?logo=openai"/>
+  <img src="https://img.shields.io/badge/status-beta-yellow"/>
 </p>
 
 ---
